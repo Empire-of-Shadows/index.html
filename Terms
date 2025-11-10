@@ -1,0 +1,78 @@
+  Terms of Service for Stygian-Relay
+
+  Last Updated: November 10, 2025
+
+  1. Acceptance of Terms
+  By adding or using Stygian-Relay ("the Bot") in your Discord server, you are agreeing to be bound by these
+  Terms of Service ("ToS"). If you do not agree with these terms, you must not use the Bot and should remove
+  it from your server.
+
+  2. Description of Service
+  The Bot is designed to provide message forwarding and relay capabilities between channels and servers ("the
+  Service"). Its features are provided as-is and are subject to change, modification, or discontinuation at
+  any time, with or without notice. As the Bot is in active development, features may change frequently.
+
+  3. User Responsibilities
+   - You must have the necessary permissions to add a bot to any server where you install it.
+   - You are responsible for the configuration of the Bot in your server, including the forwarding rules you
+     create.
+   - You agree not to use the Service for any purpose that is illegal, malicious, or violates Discord's Terms of
+     Service. This includes, but is not limited to, spamming, harassment, or distributing harmful content.
+   - Misuse of the Service may result in a temporary or permanent ban of your server and its users from
+     accessing the Bot.
+
+  4. Termination
+  We reserve the right to terminate or restrict access to the Service for any server or user who violates
+  these ToS, without notice or liability.
+
+  5. Disclaimer of Warranties
+  The Service is provided on an "as is" and "as available" basis. We make no warranty that the Service will be
+  uninterrupted, timely, secure, or error-free.
+
+  6. Limitation of Liability
+  In no event shall the developers of Stygian-Relay be liable for any direct, indirect, incidental, special,
+  or consequential damages resulting from the use or the inability to use the Service.
+
+  ---
+
+  Privacy Policy for Stygian-Relay
+
+  Last Updated: November 10, 2025
+
+  This Privacy Policy describes how Stygian-Relay ("the Bot") collects, uses, and stores information.
+
+  1. Information We Collect
+  To provide its services, the Bot collects and stores the following information:
+   - Server Information: We store Discord Server (Guild) IDs and Channel IDs to configure and manage message
+     forwarding rules.
+   - User Information: We store Discord User IDs to associate users with the configurations they create. We do
+     not collect or store usernames, email addresses, avatars, or any other personal user information.
+   - Configuration Data: We store the forwarding rules and settings created by users for their servers.
+
+  2. How We Use Information
+   - To Provide the Service: The collected data is used exclusively to provide the Bot's core functionality,
+     such as forwarding messages according to the rules you set.
+   - To Save Settings: Your server's configuration is saved in our database so your settings persist.
+   - To Improve the Service: We may use anonymized and aggregated data to monitor usage and improve the Bot's
+     performance and features.
+
+  3. Message Content
+  The Bot needs to read message content in configured channels to perform its forwarding function. However,
+  the content of user messages is never stored in our database or logged. The content is accessed temporarily
+  in memory solely for the purpose of relaying it to the destination channel.
+
+  4. Data Storage and Security
+  Configuration data (including IDs and rules) is stored in a secured database. We take reasonable measures to
+  protect the information we store from loss, theft, and unauthorized access.
+
+  5. Data Retention and Deletion
+   - Configuration data is retained as long as the Bot remains in your server. When the Bot is removed from your
+     server, you may request the deletion of all associated data.
+   - You can request to view or delete your server's data at any time by contacting us.
+
+  6. Information Sharing
+  We do not sell, trade, or otherwise share your server's or users' data with any third parties.
+
+  7. Contact Us
+  If you have any questions about this Privacy Policy or wish to request data deletion, please join our
+  support server discord.gg/gzBKqCQBhG.
